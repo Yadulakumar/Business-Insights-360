@@ -8,7 +8,7 @@ AtliQ Hardware lost money in Latin America because managers relied on intuition 
 - **Sales View** – Which regions, customers, and products drive growth or drag it down? (https://github.com/Yadulakumar/Business-Insights-360/blob/main/Screenshot%202025-05-15%20104605%20-%20Copy.png)
 - **Marketing View** – Which products and areas give the best balance of profit and growth?(https://github.com/Yadulakumar/Business-Insights-360/blob/main/Screenshot%202025-05-15%20104623%20-%20Copy.png) 
 - **Supply-Chain View** – How accurate are our demand forecasts? Where are the biggest errors?(https://github.com/Yadulakumar/Business-Insights-360/blob/main/Screenshot%202025-05-15%20104637%20-%20Copy.png) 
-- **Executive View** – What is the 30-second health check of the entire company?
+- **Executive View** – What is the 30-second health check of the entire company?(https://github.com/Yadulakumar/Business-Insights-360/blob/main/Screenshot%202025-05-15%20104653.png)
 
 ## Data sources
 - **MySQL** database for core sales, finance, and forecast facts and dimensions  
