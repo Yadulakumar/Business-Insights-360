@@ -5,7 +5,7 @@ AtliQ Hardware lost money in Latin America because managers relied on intuition 
 
 ## Dashboard views and the questions they answer
 - **Finance View** – How are sales, costs, and profit moving for any product, customer, or country? (https://github.com/Yadulakumar/Business-Insights-360/blob/main/Screenshot%202025-05-15%20104544%20-%20Copy.png)
-- **Sales View** – Which regions, customers, and products drive growth or drag it down?  
+- **Sales View** – Which regions, customers, and products drive growth or drag it down? (https://github.com/Yadulakumar/Business-Insights-360/blob/main/Screenshot%202025-05-15%20104605%20-%20Copy.png)
 - **Marketing View** – Which products and areas give the best balance of profit and growth?  
 - **Supply-Chain View** – How accurate are our demand forecasts? Where are the biggest errors?  
 - **Executive View** – What is the 30-second health check of the entire company?
