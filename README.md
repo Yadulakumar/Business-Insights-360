@@ -4,7 +4,7 @@
 AtliQ Hardware lost money in Latin America because managers relied on intuition instead of data. **Business Insights 360** is a single Power BI dashboard that gathers every key metric so decisions are based on facts, not guesses.
 
 ## Dashboard views and the questions they answer
-- **Finance View** – How are sales, costs, and profit moving for any product, customer, or country?  
+- **Finance View** – How are sales, costs, and profit moving for any product, customer, or country? (https://github.com/Yadulakumar/Business-Insights-360/blob/main/Screenshot%202025-05-15%20104544%20-%20Copy.png)
 - **Sales View** – Which regions, customers, and products drive growth or drag it down?  
 - **Marketing View** – Which products and areas give the best balance of profit and growth?  
 - **Supply-Chain View** – How accurate are our demand forecasts? Where are the biggest errors?  
